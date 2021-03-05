@@ -4,13 +4,19 @@ body {
 	 align-items: center;
 }
 
-.row{
-		width: 350px;
-		
-}
 
 .form-control {
 		width: 20px;
 		
+
+
+-col-md-9 col-sm-12{
+	
 }
+
+.img {
+	width: 100px;
+	height: auto;
+}
+
 
