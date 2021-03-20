@@ -1,22 +1,17 @@
 body {
-     background-color: #303030;
-	 color: white;
-	 align-items: center;
+
 }
 
-
-.form-control {
-		width: 20px;
-		
-
-
--col-md-9 col-sm-12{
-	
+.container{
+    background-color: #AAAAAA;
 }
 
 .img {
-	width: 100px;
-	height: auto;
+    width: 350px;
+    height: auto;
 }
 
-
+.footer-container {
+    text-align: center;
+    border-top: 1px solid black;
+}
